@@ -1,5 +1,8 @@
 {
-  "tokens": ["8155065877:AAH-vhRb5hcUrhvuoeGG_vX-gpVrh6nHIzw"],
+  "tokens": [
+    "8155065877:AAH-vhRb5hcUrhvuoeGG_vX-gpVrh6nHIzw",
+    "1244568861827272727277277"
+  ],
   "users": {
     "res": [],
     "pt": [],
@@ -7,6 +10,8 @@
     "svip": [],
     "dev": [],
     "mod": [],
-    "ceo": [1417217063]
+    "ceo": [
+      1417217063
+    ]
   }
 }
